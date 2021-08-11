@@ -16,7 +16,7 @@ def UpdateCounter():
     #tkinter.messagebox.showinfo( "Hello Python", "Hello World")
 
 if __name__ == '__main__':   # vores "main" program
-    root.title("Tkinter Example Branch LTPE")
+    root.title("Tkinter Example Branch LTPE -> Master")
     root.geometry("1024x768")
 
     lblHead = Label(root,
